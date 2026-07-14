@@ -24,8 +24,6 @@
 
 ### 💫 About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif"/>
-
 - 🔭 **Fullstack Engineer @ Joblift** — event-driven microservices with Java 17, Spring Boot & Kafka
 - 🤖 Engineered an **AI-powered content-generation service** using the OpenAI API
 - 🎓 B.Sc. Computer Science — **Berlin University of Applied Sciences (BHT)**
@@ -100,11 +98,6 @@
 ---
 
 ### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khatiazitanishvili&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khatiazitanishvili&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=khatiazitanishvili&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
