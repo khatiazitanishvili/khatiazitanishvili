@@ -1,32 +1,13 @@
 <!-- Animated wave banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=180&section=header&text=Khatia%20Zitanishvili&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20%C2%B7%20Berlin%20%F0%9F%87%A9%F0%9F%87%AA&descAlignY=75&descSize=18" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=180&section=header&text=Khatia%20Zitanishvili&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Engineer%20%C2%B7%20Berlin%20%F0%9F%87%A9%F0%9F%87%AA&descAlignY=75&descSize=18" alt="banner"/>
 </p>
-
-<!-- Animated typing intro -->
-<p align="center">
-  <a href="https://github.com/khatiazitanishvili">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=764BA2&center=true&vCenter=true&width=520&lines=Hi+there%2C+I'm+Khatia+%F0%9F%91%8B;Java+%C2%B7+Spring+Boot+%C2%B7+Kafka;TypeScript+%C2%B7+React+%C2%B7+Node.js;Building+things+with+AI+%F0%9F%A4%96;Always+learning+something+new+%E2%9C%A8" alt="Typing SVG"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="mailto:khzitanishvili2@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/khatiazitanishvili">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=khatiazitanishvili&style=for-the-badge&color=764ba2" alt="Profile views"/>
-</p>
-
----
 
 ### 💫 About Me
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif"/>
 
-- 🔭 **Fullstack Engineer @ Joblift** — event-driven microservices with Java 17, Spring Boot & Kafka
+- 🔭 **Junior Fullstack/AI Engineer @ Joblift** — event-driven microservices with Java 17, Spring Boot & Kafka
 - 🤖 Engineered an **AI-powered content-generation service** using the OpenAI API
 - 🎓 B.Sc. Computer Science — **Berlin University of Applied Sciences (BHT)**
 - 🌱 Currently exploring **cloud architecture (AWS CDK, Kubernetes)** and **LLM-powered tools**
