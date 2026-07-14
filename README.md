@@ -1,6 +1,6 @@
 <!-- Animated wave banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=180&section=header&text=Khatia%20Zitanishvili&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20%C2%B7%20Berlin%20%F0%9F%87%A9%F0%9F%87%AA&descAlignY=75&descSize=18" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=180&section=header&text=Khatia%20Zitanishvili&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Engineer%20%C2%B7%20Berlin%20%F0%9F%87%A9%F0%9F%87%AA&descAlignY=75&descSize=18" alt="banner"/>
 </p>
 
 <!-- Animated typing intro -->
